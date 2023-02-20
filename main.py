@@ -53,4 +53,4 @@ def calc_all_possible_words(list_of_letters, count):
     print("number of words without repeat: ", len(set(list_of_words)))
 
 
-calc_all_possible_words(letters, 3)
+# exp. => calc_all_possible_words(letters, 3)
